@@ -1,0 +1,11 @@
+Package: com.jakeashacks.say
+Name: say
+Depends: 
+Architecture: iphoneos-arm
+Description: "say" command for iOS devices. Make Siri speak anything you want from command line. iOS 7-11. Usage: say "your text here" (Must use quotes when message has spaces)
+Maintainer: Jake James
+Author: Jake James
+Section: System
+Tag: role::hacker
+Version: 0.0.3-1
+Installed-Size: 268

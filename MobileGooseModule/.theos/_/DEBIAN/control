@@ -7,5 +7,5 @@ Section: Tweaks
 Architecture: iphoneos-arm
 Description: Control Center module to toggle MobileGoose
 Depiction: https://captinc.github.io/depictions/mobilegoosemodule/mobilegoosemodule.html
-Version: 1.0.2-5+debug
+Version: 1.0.2-6+debug
 Installed-Size: 196
