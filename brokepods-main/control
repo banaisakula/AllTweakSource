@@ -1,0 +1,9 @@
+Package: com.fiore.brokepods
+Name: brokepods
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animation when plugging in Apples EarPods into a iDevice. Concept by @flower#1116
+Maintainer: Donato Fiore
+Author: Donato Fiore
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

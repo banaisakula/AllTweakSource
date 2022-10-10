@@ -1,0 +1,10 @@
+Package: com.karimo299.btpower
+Name: BTPower
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A tweak that shows current headset's battery level in the status bar
+Maintainer: Karimo299
+Author: Karimo299
+Section: Tweaks
+Version: 1.0.0-6+debug
+Installed-Size: 140

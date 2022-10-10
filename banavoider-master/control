@@ -1,0 +1,9 @@
+Package: com.greg0109.banavoider
+Name: BanAvoider
+Depends: mobilesubstrate, applist, preferenceloader
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Useful tweak that reminds you to disable the jailbreak before playing games!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks

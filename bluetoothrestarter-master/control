@@ -1,0 +1,9 @@
+Package: com.greg0109.bluetoothrestarter
+Name: BluetoothRestarter
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Toggles airplane mode to restart bluetooth services after a respring!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

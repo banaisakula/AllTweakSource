@@ -1,0 +1,11 @@
+Package: com.wilsonthewolf.timejump
+Name: TimeJump
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Jump Time.
+Maintainer: WilsontheWolf
+Author: WilsontheWolf
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Icon: file:///Library/PreferenceBundles/TimeJumpPrefs.bundle/Icon@3x.png
+Depiction: https://wilson.antti.codes/repo/depictions/web/com.wilsonthewolf.timejump

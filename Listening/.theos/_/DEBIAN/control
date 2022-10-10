@@ -1,0 +1,10 @@
+Package: com.nahtedetihw.listening
+Name: Listening
+Architecture: iphoneos-arm
+Description: Toggle Transparency when paused and NoiseCancellation when playing!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
+Version: 1.0
+Installed-Size: 168

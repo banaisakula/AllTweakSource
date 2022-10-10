@@ -1,0 +1,11 @@
+Package: com.ps.apppad
+Name: AppPad
+Depends: mobilesubstrate
+Conflicts: com.yourepo.isaact1012.requirefullarm64e, com.matrix.requirefull
+Architecture: iphoneos-arm
+Description: Full screen, Split and Slideover for every app on iPad.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Version: 0.0.1-5+debug
+Installed-Size: 204

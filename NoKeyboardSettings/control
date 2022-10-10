@@ -1,0 +1,9 @@
+Package: com.brend0n.nokeyboardsettings
+Name: NoKeyboardSettings
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove Keyboard Settings and Hand Bias Switch.
+Maintainer: Brend0n <brendonjkding@126.com>
+Author: Brend0n <brendonjkding@126.com>
+Section: Tweaks

@@ -1,0 +1,12 @@
+{
+	"title": "ShutupShortcuts",
+	"description": "This tweak disables the annoying notifications from shortcut automations.",
+	"compatibility": "Made for iOS 14",
+	"screenshots": ["screenshot1.gif", "screenshot2.png"],
+	"changelog": [
+		{
+			"version": "1.0.0",
+			"changes": ["Initial Release"]
+		}
+	]
+}

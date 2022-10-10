@@ -1,0 +1,10 @@
+{
+	entry = {
+		cell = PSLinkCell;
+		isController = 1;
+		label = "Dock Controller";
+		bundle = DockControllerSettings;
+		detail = DockControllerRootSettings;
+		icon = icons/DockController.png;
+	};
+}

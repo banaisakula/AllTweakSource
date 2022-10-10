@@ -1,0 +1,9 @@
+Package: com.yourcompany.respring
+Name: respring
+Depends: com.opa334.ccsupport
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Control Center module!
+Maintainer: lovez
+Author: lovez
+Section: Control Center (Modules)

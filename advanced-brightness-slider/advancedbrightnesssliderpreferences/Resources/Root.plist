@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>To apply changes made to this setting, you need to Respring your Device. Settings below are applied automatically.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.jschiefner.advancedbrightnesssliderpreferences</string>
+			<key>key</key>
+			<string>enabled</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+			<key>action</key>
+			<string>respring</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Threshold</string>
+			<key>footerText</key>
+			<string>This controls where the brightness slider will be split into controlling the brightness setting (upper part) and the white point setting (lower part). By default this is set to 30%, which means that the lower 30% of the slider will control the white point setting whereas the top 70% of the slider control the actual screen brightness. While the slider is in white point mode, the sun icon on it will be in its smallest state.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>label</key>
+			<string>Threshold</string>
+			<key>default</key>
+			<real>30</real>
+			<key>defaults</key>
+			<string>com.jschiefner.advancedbrightnesssliderpreferences</string>
+			<key>key</key>
+			<string>threshold</string>
+			<key>min</key>
+			<integer>10</integer>
+			<key>max</key>
+			<integer>90</integer>
+			<key>showValue</key>
+			<true/>
+			<key>isSegmented</key>
+			<true/>
+			<key>segmentCount</key>
+			<integer>8</integer>
+			<key>PostNotification</key>
+			<string>com.jschiefner.advancedbrightnesssliderpreferences/ReloadPrefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>More</string>
+			<key>footerText</key>
+			<string>If you have any problems, please file an issue on GitHub. There, you can also take a look at the source code of this tweak and learn more about how it works. If you like the project and want to support me you can donate via PayPal.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Open on GitHub</string>
+			<key>action</key>
+			<string>openGithub</string>
+			<key>hasIcon</key>
+			<true/>
+			<key>icon</key>
+			<string>github.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Donate via PayPal</string>
+			<key>action</key>
+			<string>openPaypal</string>
+			<key>hasIcon</key>
+			<true/>
+			<key>icon</key>
+			<string>paypal.png</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>AdvancedBrightnessSlider</string>
+</dict>
+</plist>

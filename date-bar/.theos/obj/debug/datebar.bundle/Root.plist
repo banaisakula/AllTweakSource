@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>date settings</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.eliofegh.date-bar.settingschanged</string>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+<key>placeholder</key>
+	<string>MM/dd/yyyy HH:mm a</string>
+
+			<key>defaults</key>    
+			<string>com.eliofegh.date-bar</string>
+			<key>key</key>
+			<string>answer</string>
+			<key>label</key>
+			<string>format:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>More help:</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>formatInfo</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+         <key>icon</key>
+			<string>more.png</string>
+			<key>label</key>
+			<string>format examples</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>PS: you can also lock your phone and reopen it for the changes to take effect</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respringFunction</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>respring (optional)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Made with ❤️ by ElioFegh</string>
+			<key>label</key>
+			<string>More help:</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>twitter</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>My twitter</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>datebar</string>
+</dict>
+</plist>

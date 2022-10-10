@@ -1,0 +1,9 @@
+Package: me.lau.anne
+Name: Anne
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Lock your hidden photos with FaceID
+Maintainer: ren7995
+Author: ren7995
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

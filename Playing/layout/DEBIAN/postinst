@@ -1,0 +1,2 @@
+uicache -v -u /Applications/PlayingApp.app
+uicache -v -p /Applications/PlayingApp.app

@@ -1,0 +1,9 @@
+Package: dev.hyper.playing
+Name: Playing
+Depends: mobilesubstrate, preferenceloader, com.cokepokes.libnotifications, ws.hbang.common (>= 1.11), firmware (>=12.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Get a notification when a new song starts
+Maintainer: HyperDev <hyper.devv@gmail.com>
+Author: HyperDev <hyper.devv@gmail.com>
+Section: Tweaks

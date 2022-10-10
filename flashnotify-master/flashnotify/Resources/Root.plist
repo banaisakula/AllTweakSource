@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+	    <key>cell</key>
+	    <string>PSStaticTextCell</string>
+	    <key>cellClass</key>
+	    <string>PFHeaderCell</string>
+	    <key>background</key>
+	    <string>#00FFFFFF</string>
+	    <key>image</key>
+	    <string>/Library/PreferenceBundles/FlashNotify.bundle/header.png</string>
+	    <key>height</key>
+	    <integer>250</integer>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.greg0109.flashnotifyprefs</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+            <key>cell</key>
+            <string>PSLinkListCell</string>
+            <key>defaults</key>
+            <string>com.greg0109.flashnotifyprefs</string>
+            <key>detail</key>
+            <string>PSListItemsController</string>
+            <key>key</key>
+            <string>remind</string>
+            <key>label</key>
+            <string>Time Delay</string>
+            <key>validTitles</key>
+            <array>
+                <string>30 Seconds</string>
+                <string>1 Minute</string>
+                <string>2 Minutes</string>
+                <string>5 Minutes</string>
+                <string>10 Minutes</string>
+                <string>15 Minutes</string>
+            </array>
+            <key>validValues</key>
+            <array>
+                <string>30</string>
+                <string>60</string>
+                <string>120</string>
+                <string>300</string>
+                <string>600</string>
+                <string>900</string>
+            </array>
+        </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>FlashNotify can remind you if you leave your flashlight on after charging your device</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.greg0109.flashnotifyprefs</string>
+			<key>key</key>
+			<string>charging</string>
+			<key>label</key>
+			<string>Remind Me When Phone Is Charging</string>
+		</dict>
+		<dict>
+            <key>cell</key>
+            <string>PSLinkListCell</string>
+            <key>defaults</key>
+            <string>com.greg0109.flashnotifyprefs</string>
+            <key>detail</key>
+            <string>PSListItemsController</string>
+            <key>key</key>
+            <string>remindCharging</string>
+            <key>label</key>
+            <string>Time Delay</string>
+            <key>validTitles</key>
+            <array>
+                <string>30 Seconds</string>
+                <string>1 Minute</string>
+                <string>2 Minutes</string>
+                <string>5 Minutes</string>
+                <string>10 Minutes</string>
+                <string>15 Minutes</string>
+            </array>
+            <key>validValues</key>
+            <array>
+                <string>30</string>
+                <string>60</string>
+                <string>120</string>
+                <string>300</string>
+                <string>600</string>
+                <string>900</string>
+            </array>
+        </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>flashnotify can automatically turn off your flashlight after a certain period of time</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.greg0109.flashnotifyprefs</string>
+			<key>key</key>
+			<string>autooff</string>
+			<key>label</key>
+			<string>Auto Shut-Off Flashlight</string>
+		</dict>
+		<dict>
+            <key>cell</key>
+            <string>PSLinkListCell</string>
+            <key>defaults</key>
+            <string>com.greg0109.flashnotifyprefs</string>
+            <key>detail</key>
+            <string>PSListItemsController</string>
+            <key>key</key>
+            <string>autooffTimer</string>
+            <key>label</key>
+            <string>Time Delay</string>
+            <key>validTitles</key>
+            <array>
+                <string>30 Seconds</string>
+                <string>1 Minute</string>
+                <string>2 Minutes</string>
+                <string>5 Minutes</string>
+                <string>10 Minutes</string>
+                <string>15 Minutes</string>
+            </array>
+            <key>validValues</key>
+            <array>
+                <string>30</string>
+                <string>60</string>
+                <string>120</string>
+                <string>300</string>
+                <string>600</string>
+                <string>900</string>
+            </array>
+        </dict>
+				<dict>
+					<key>cell</key>
+					<string>PSGroupCell</string>
+					<key>label</key>
+					<string>Credits</string>
+				</dict>
+				<dict>
+						<key>action</key>
+						<string>nada1</string>
+						<key>cell</key>
+						<string>PSButtonCell</string>
+						<key>icon</key>
+						<string>placeholderdev</string>
+						<key>label</key>
+						<string>Greg0109 - Developer</string>
+				</dict>
+				<dict>
+					<key>action</key>
+					<string>nada2</string>
+					<key>cell</key>
+					<string>PSButtonCell</string>
+					<key>icon</key>
+					<string>pfp</string>
+					<key>label</key>
+					<string>Thomas Jadallah - Designer</string>
+				</dict>
+	</array>
+	<key>title</key>
+	<string>FlashNotify</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+Package: com.greg0109.quiet
+Name: Quiet
+Architecture: iphoneos-arm
+Description: Silence notifications from 3D touch menu!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.0-3+debug
+Installed-Size: 204

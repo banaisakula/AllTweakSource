@@ -1,0 +1,9 @@
+Name: SwipeForMore
+Package: org.thebigboss.swipeformore
+Maintainer: PoomSmart
+Author: PoomSmart
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Section: Tweaks
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Manage packages in Cydia via swipe.

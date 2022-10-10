@@ -1,0 +1,9 @@
+Package: com.greg0109.killalert
+Name: KillAlert
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Get a notification before killing an app!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

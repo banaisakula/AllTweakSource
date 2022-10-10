@@ -1,0 +1,5 @@
+.dragon/
+.theos/
+packages/
+build.ninja
+.DS_Store

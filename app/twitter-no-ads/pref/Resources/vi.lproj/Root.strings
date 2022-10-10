@@ -1,0 +1,30 @@
+{
+  "APPLY" = "Áp dụng";
+  "DO_YOU_REALLY_WANT_TO_KILL_TWITTER" = "Bạn có muốn tắt Twitter?";
+  "CONFIRM" = "Xác nhận";
+  "CANCEL" = "Hủy";
+  "DEFAULT" = "Mặc định";
+  "MAIN_PREFERENCES" = "Tùy chỉnh chính";
+  "NO_ADS" = "Gỡ quảng cáo";
+  "REMOVE_ADS_IN_NEWS_FEED" = "Gỡ quảng cáo ở News Feed";
+  "NO_FLEETS" = "Gỡ Fleets";
+  "REMOVE_FLEETS_IN_NEWS_FEED" = "Gỡ Fleets ở News Feed";
+  "HIDE_NEWS_AND_TRENDING" = "Ẩn Tin tức và chủ đề nổi trội";
+  "HIDE_NEWS_AND_TRENDING_POST_ON_SEARCH_TAB" = "Ẩn Tin tức và chủ đề nổi trội ở tab Tìm kiếm";
+  "HIDE_WHO_TO_FOLLOW" = "Ẩn gợi ý theo dõi";
+  "HIDE_WHO_TO_FOLLOW_SECTION" = "Ẩn mục gợi ý theo dõi";
+  "CAN_SAVE_VIDEO" = "Có thể tải video";
+  "LONG_PRESS_ON_VIDEO_TO_SAVE" = "Ấn và giữ video để lưu";
+  "SKIP_ANALYTIC_URL" = "Bỏ qua Analytic URL";
+  "SKIP_ANALYTIC_URL_WHEN_OPEN_A_LINK" = "Bỏ qua analytic URL (t.co) khi mở link";
+  "OTHER_PREFERENCES" = "Tùy chỉnh phụ";
+  "RESET_SETTINGS" = "Đặt lại tùy chỉnh";
+  "SUPPORT_ME" = "Hỗ trợ tôi";
+  "DONATION" = "Ủng hộ 💰";
+  "BUY_ME_A_COFFEE" = "Mua giúp tôi một ly cà phê";
+  "FEATURE_REQUEST" = "Yêu cầu thêm tính năng ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Gửi email yêu cầu";
+  "SOURCE_CODE" = "Mã nguồn 🤖";
+  "FOUND_A_BUG" = "Tìm thấy lỗi 🐛";
+  "LEAVE_A_BUG_REPORT_ON_GITHUB" = "Báo lỗi trên Github";
+}

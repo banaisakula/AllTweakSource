@@ -1,0 +1,9 @@
+Package: com.greg0109.instasearch
+Name: InstaSearch
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Bring back search 3D Touch option to instagram!
+Maintainer: Greg0109 <greg.rabago@gmail.com>
+Author: Greg0109 <greg.rabago@gmail.com>
+Section: Tweaks

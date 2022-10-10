@@ -1,0 +1,9 @@
+Package: com.wrp1002.shutupshortcuts
+Name: ShutupShortcuts
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Stop Shutcut notifications!
+Maintainer: Wes <wes.hamster@gmail.com>
+Author: Wes <wes.hamster@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2)

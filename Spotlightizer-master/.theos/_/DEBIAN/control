@@ -1,0 +1,11 @@
+Package: cf.1di4r.spotlightizer
+Name: Spotlightizer
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 1di4r
+Icon: file:///Library/PreferenceBundles/spotlightizer_pref.bundle/icon@3x.png
+Author: 1di4r
+Section: Tweaks
+Version: 2.0-4+debug
+Installed-Size: 292

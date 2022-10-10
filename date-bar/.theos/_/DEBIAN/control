@@ -1,0 +1,10 @@
+Package: com.eliofegh.date-bar
+Name: date bar
+Architecture: iphoneos-arm
+Description: more date!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.2-4+debug
+Installed-Size: 400

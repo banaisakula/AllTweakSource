@@ -1,0 +1,9 @@
+Package: com.bismih.cn
+Name: AAA
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: My first tweak
+Maintainer: bismih
+Author: bismih
+Section: Tweaks
+Depends: mobilesubstrate

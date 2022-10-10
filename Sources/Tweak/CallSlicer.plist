@@ -1,0 +1,27 @@
+{
+	Filter = {
+		Bundles = (
+			"com.skype.skype",
+			"jp.naver.line",
+			"com.apple.springboard",
+			"com.facebook.Messenger",
+			"com.google.hangouts",
+			"com.viber",
+			"net.whatsapp.WhatsApp",
+			"com.iwilab.KakaoTalk",
+			"com.tencent.xin",
+			"vn.com.vng.zingalo",
+			"co.babypenguin.imo",
+			"com.vocalocity.viphone",
+			imoimiphone,
+			"ai.totok.videochat",
+			"ph.telegra.Telegraph",
+			"com.wearezeta.zclient.ios",
+			"ch.threema.iapp",
+			"com.hammerandchisel.discord",
+			"com.microsoft.skype.teams",
+			"com.microsoft.lync2013.iphone",
+			"org.whispersystems.signal",
+		);
+	};
+}

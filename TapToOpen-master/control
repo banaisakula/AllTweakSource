@@ -1,0 +1,9 @@
+Package: com.gilshahar7.taptoopen
+Name: TapToOpen
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tap on lockscreen notifications to open them.
+Maintainer: gilshahar7
+Author: gilshahar7
+Section: Tweaks

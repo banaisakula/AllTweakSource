@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>CallHider First Page</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.greg0109.callhiderprefs</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enable</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.greg0109.callhiderprefs</string>
+			<key>key</key>
+			<string>mask</string>
+			<key>label</key>
+			<string>Mask Contacts</string>
+		</dict>
+		<dict>
+      <key>cell</key>
+      <string>PSEditTextCell</string>
+      <key>placeholder</key>
+      <string>contact name;contact name</string>
+      <key>defaults</key>
+      <string>com.greg0109.callhiderprefs</string>
+      <key>key</key>
+      <string>contactname</string>
+    </dict>
+		<dict>
+      <key>cell</key>
+      <string>PSEditTextCell</string>
+      <key>placeholder</key>
+      <string>Fake Name</string>
+      <key>defaults</key>
+      <string>com.greg0109.callhiderprefs</string>
+      <key>key</key>
+      <string>fakename</string>
+    </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>When using this option, press the lock button to see the call</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.greg0109.callhiderprefs</string>
+			<key>key</key>
+			<string>hidecall</string>
+			<key>label</key>
+			<string>Hide Call (Doesn't work on iOS 14+)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.greg0109.callhiderprefs</string>
+			<key>key</key>
+			<string>ringer</string>
+			<key>label</key>
+			<string>Disable Ringer</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.greg0109.callhiderprefs</string>
+			<key>key</key>
+			<string>ringertime</string>
+			<key>label</key>
+			<string>Disable Ringer on specific time slots</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>bundle</key>
+			<string>AppList</string>
+			<key>isController</key>
+			<string>1</string>
+			<key>label</key>
+			<string>Disable notification sounds in applications</string>
+			<key>ALAllowsSelection</key>
+			<string>1</string>
+			<key>ALSettingsKeyPrefix</key>
+			<string></string>
+			<key>ALSettingsDefaultValue</key>
+			<string>0</string>
+			<key>ALSettingsPath</key>
+			<string>/var/mobile/Library/Preferences/com.greg0109.callhiderapplist</string>
+			<key>ALSingleEnabledMode</key>
+			<false/>
+		</dict>
+		<dict>
+      <key>cell</key>
+      <string>PSEditTextCell</string>
+      <key>placeholder</key>
+      <string>hours-hours;hours-hours;</string>
+      <key>defaults</key>
+      <string>com.greg0109.callhiderprefs</string>
+      <key>key</key>
+      <string>timeslot</string>
+    </dict>
+	</array>
+	<key>title</key>
+	<string>CallHider</string>
+</dict>
+</plist>

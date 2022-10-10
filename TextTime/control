@@ -1,0 +1,10 @@
+Package: me.lightmann.texttime
+Name: TextTime
+Version: 1.0.2.4
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Architecture: iphoneos-arm
+Description: Display the time as text
+Maintainer: Lightmann
+Author: Lightmann
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/L1ghtmann/TextTime/master/icon.png

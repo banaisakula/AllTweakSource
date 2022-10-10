@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>HBPackageNameHeaderCell</string>
+			<key>packageIdentifier</key>
+			<string>dev.hyper.playing</string>
+			<key>icon</key>
+			<string>AppIcon40x40.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Configuration</string>
+			<key>footerText</key>
+			<string>For custom notification text, use @a for the artist name and @t for the song title</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>dev.hyper.playing.prefs</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>PostNotification</key>
+			<string>dev.hyper.playing/ReloadPrefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>cellClass</key>
+			<string>ReturnableTextCell</string>
+			<key>defaults</key>
+			<string>dev.hyper.playing.prefs</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>customText</string>
+			<key>label</key>
+			<string>Custom Text</string>
+			<key>placeholder</key>
+			<string>Custom notification text, leave blank for default.</string>
+			<key>PostNotification</key>
+			<string>dev.hyper.playing/ReloadPrefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>More</string>
+			<key>footerText</key>
+			<string>Don't like the vibrations or want to disable it on the lockscreen? Go to Settings > Notifications > Playing to change how they behave</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>testNotification:</string>
+			<key>label</key>
+			<string>Test Notification</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Playing</string>
+</dict>
+</plist>

@@ -1,0 +1,13 @@
+Package: com.cike.︎appstoretweaks
+Name: ⚡︎ App Store Tweaks
+Author: cike <(null)>
+Description: Tweaks: (12-19-2021)•Block search engine ads•Block cross-app AD tracking•Block personalized AD push•Block the search bar text•Forcibly enable video mute. Click the volume button to restore the sound
+The patch was tested in ios 14.3-iphone11-unC0ver jailbreak environment. Please download and test other devices. enjoy!
+If you like my patch, please vote and comment more If you'd like to donate via PayPal, please send money to...
+583386935@qq.com屏蔽搜索引擎广告推送.屏蔽交叉应用广告跟踪.屏蔽个性化广告推送.屏蔽搜索栏文本.强制开启视频静音.以减少打扰⚠️补丁在iOS14.3-iPhone11-unC0ver越狱环境下测试有效.其他设备请下载后测试
+Depends: mobilesubstrate
+Maintainer: cike
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 4.2.0
+Installed-Size: 264

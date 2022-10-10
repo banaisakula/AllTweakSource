@@ -1,0 +1,9 @@
+Package: me.bismih.qq.toggle
+Name: NetflixToggle
+Version: 0.9.0
+Architecture: iphoneos-arm
+Description: An awesome Control Center module!
+Maintainer: bisih
+Author: Luki
+Section: Tweaks
+Depends: mobilesubstrate

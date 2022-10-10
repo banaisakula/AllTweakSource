@@ -1,0 +1,9 @@
+Package: com.greg0109.callhidercc
+Name: CallHiderCC
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Control Center module!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Control Center (Modules)

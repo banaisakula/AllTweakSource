@@ -1,0 +1,9 @@
+Package: com.greg0109.flashnotify
+Name: FlashNotify
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Never forget your flashlight is on again!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

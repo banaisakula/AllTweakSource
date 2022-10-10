@@ -1,0 +1,9 @@
+Package: com.snail.bypassalipay
+Name: 屏蔽支付宝越狱检测
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 用最精简的技术，一劳永逸，屏蔽支付宝越狱检测。
+Maintainer: Snail
+Author: Snail <snailsohi@gmail.com>
+Section: Tweaks

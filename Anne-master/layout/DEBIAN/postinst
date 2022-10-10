@@ -1,0 +1,5 @@
+#!/bin/sh
+cd /usr/local/bin/
+chown 0:0 AnneHelper
+chmod 6755 AnneHelper
+./AnneHelper

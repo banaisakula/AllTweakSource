@@ -1,0 +1,10 @@
+Package: me.kritanta.deadringer
+Name: DeadRinger
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Description: Minimalist ringer icon in top left corner
+Maintainer: Kritanta
+Author: Kritanta
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 176

@@ -1,0 +1,11 @@
+Package: dev.traurige.libkitten
+Name: libKitten
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Version: 1.3.3
+Architecture: iphoneos-arm
+Description: Collection of image and color calculations
+Maintainer: Traurige
+Author: Traurige
+Section: System
+Tag: role::developer

@@ -1,0 +1,9 @@
+Package: com.donato.cach3d
+Name: Cach3D
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Clear an application's cache with a 3D touch shortcut
+Maintainer: Donato Fiore
+Author: Donato Fiore
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

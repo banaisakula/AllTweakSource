@@ -1,0 +1,11 @@
+Package: weeb.lillie.accentcustom
+Name: Accent Custom
+Version: 2.0.5
+Architecture: iphoneos-arm
+Description: iOS Accent Colours In macOS Style
+Maintainer: Lillie
+Author: Lillie
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.ivanc.accent
+Depiction: https://repo.lillieweeb001.xyz/depictions/accentcustom.html

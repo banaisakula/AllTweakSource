@@ -1,0 +1,9 @@
+Package: com.beckettobrien.begone
+Name: Begone
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Clear the notification badge from the 3D touch menu
+Maintainer: Beckett OBrien
+Author: Beckett OBrien
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

@@ -1,0 +1,12 @@
+Package: me.conorthedev.honeybadger
+Name: HoneyBadger
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tweak to clear badges in apps from the 3D Touch Menu
+Maintainer: ConorTheDev <con0r.b@protonmail.com>
+Author: ConorTheDev <con0r.b@protonmail.com>
+Section: Tweaks
+Depiction: https://repo.conorthedev.me/depictions/me.conorthedev.honeybadger
+SileoDepiction: https://repo.conorthedev.me/sileodepiction/me.conorthedev.honeybadger
+Icon: https://repo.conorthedev.me/icon/me.conorthedev.honeybadger

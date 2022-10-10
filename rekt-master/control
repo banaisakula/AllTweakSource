@@ -1,0 +1,9 @@
+Package: com.greg0109.rekt
+Name: rEkT
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Rekt them with the press of a button!
+Maintainer: Greg0109 <greg.rabago@gmail.com>
+Author: Greg0109 <greg.rabago@gmail.com>
+Section: Tweaks

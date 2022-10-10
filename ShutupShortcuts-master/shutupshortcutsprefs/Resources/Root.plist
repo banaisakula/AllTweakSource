@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Options</string>
+			<key>footerText</key>
+			<string>Only notifications that contain "Running your automation" are blocked. If this is enabled, all notifications from Shortcuts will be blocked.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>key</key>
+			<string>kEnabled</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.wrp1002.shutupshortcuts</string>
+			<key>PostNotification</key>
+			<string>com.wrp1002.shutupshortcuts/ReloadPrefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>label</key>
+			<string>Disable all notifications</string>
+			<key>key</key>
+			<string>kDisableAll</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.wrp1002.shutupshortcuts</string>
+			<key>PostNotification</key>
+			<string>com.wrp1002.shutupshortcuts/ReloadPrefs</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Respringing is NOT needed for changes to take effect</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+			<key>action</key>
+			<string>Respring</string>
+		</dict>
+
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Developer</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Email Me</string>
+			<key>action</key>
+			<string>OpenEmail</string>
+			<key>icon</key>
+			<string>email.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Reddit</string>
+			<key>action</key>
+			<string>OpenReddit</string>
+			<key>icon</key>
+			<string>reddit.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Source Code</string>
+			<key>action</key>
+			<string>OpenGithub</string>
+			<key>icon</key>
+			<string>github.png</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Donate</string>
+			<key>action</key>
+			<string>OpenPaypal</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+		</dict>
+
+
+	</array>
+
+	<key>title</key>
+	<string>ShutupShortcuts</string>
+</dict>
+</plist>

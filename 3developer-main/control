@@ -1,0 +1,9 @@
+Package: com.hearse.3developer
+Name: 3Developer
+Version: 1.1
+Architecture: iphoneos-arm
+Description: 3D touch shortcuts for various developer actions!
+Maintainer: Hearse/Fiore
+Author: Hearse/Fiore
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), flexdecrypt, firmware (>= 13.0)
