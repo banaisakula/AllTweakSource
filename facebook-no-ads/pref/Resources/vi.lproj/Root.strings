@@ -1,0 +1,31 @@
+{
+  "APPLY" = "Áp dụng";
+  "DO_YOU_REALLY_WANT_TO_KILL_FACEBOOK" = "Bạn có muốn tắt Facebook?";
+  "CONFIRM" = "Xác nhận";
+  "CANCEL" = "Hủy";
+  "DEFAULT" = "Mặc định";
+  "MAIN_PREFERENCES" = "Tùy chỉnh chính";
+  "NO_ADS" = "Gỡ quảng cáo";
+  "REMOVE_ADS_IN_NEWS_FEED" = "Gỡ quảng cáo ở News Feed and Video";
+  "CAN_SAVE_VIDEO" = "Có thể tải video";
+  "LONG_PRESS_ON_VIDEO_TO_SAVE" = "Ấn và giữ video để lưu";
+  "CAN_SAVE_STORY" = "Có thể tải Story";
+  "PRESS_SAVE_BUTTON_AT_BOTTOM_RIGHT_CORNER_TO_SAVE" = "Nhấn nút ở phía dưới bên phải để tải";
+  "CAN_SAVE_ONLY_ME_PROFILE_PICTURE" = "Can Save Only Me Profile Picture";
+  "DISABLE_STORY_SEEN" = "Tắt đã xem story";
+  "SEE_FRIENDS_STORY_WITHOUT_LETTING_THEM_KNOW" = "Xem story mà người kia không biết";
+  "HIDE_COMPOSER" = "Ẩn Bạn đang nghĩ gì";
+  "HIDE_COMPOSER_ON_NEWS_FEED" = "Ẩn Bạn đang nghĩ gì ở Bảng tin";
+  "HIDE_ROOM_AND_STORIES" = "Ẩn Room & Stories";
+  "HIDE_ROOM_AND_STORIES_ON_NEWS_FEED" = "Ẩn Phòng họp & Stories ở Bảng tin";
+  "OTHER_PREFERENCES" = "Tùy chỉnh phụ";
+  "RESET_SETTINGS" = "Đặt lại tùy chỉnh";
+  "SUPPORT_ME" = "Hỗ trợ tôi";
+  "DONATION" = "Ủng hộ 💰";
+  "BUY_ME_A_COFFEE" = "Mua giúp tôi một ly cà phê";
+  "FEATURE_REQUEST" = "Yêu cầu thêm tính năng ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Gửi email yêu cầu";
+  "SOURCE_CODE" = "Mã nguồn 🤖";
+  "FOUND_A_BUG" = "Tìm thấy lỗi 🐛";
+  "LEAVE_A_BUG_REPORT_ON_GITHUB" = "Báo lỗi trên Github";
+}

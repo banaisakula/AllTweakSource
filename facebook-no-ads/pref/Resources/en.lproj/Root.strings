@@ -1,0 +1,31 @@
+{
+  "APPLY" = "Apply";
+  "DO_YOU_REALLY_WANT_TO_KILL_FACEBOOK" = "Do you really want to kill Facebook?";
+  "CONFIRM" = "Confirm";
+  "CANCEL" = "Cancel";
+  "DEFAULT" = "Default";
+  "MAIN_PREFERENCES" = "Main Preferences";
+  "NO_ADS" = "No Ads";
+  "REMOVE_ADS_IN_NEWS_FEED" = "Remove Ads in News Feed and Video";
+  "CAN_SAVE_VIDEO" = "Can Save Video";
+  "LONG_PRESS_ON_VIDEO_TO_SAVE" = "Long press on video to save";
+  "CAN_SAVE_STORY" = "Can Save Story";
+  "PRESS_SAVE_BUTTON_AT_BOTTOM_RIGHT_CORNER_TO_SAVE" = "Press save button at bottom right corner to save";
+  "CAN_SAVE_ONLY_ME_PROFILE_PICTURE" = "Can Save Only Me Profile Picture";
+  "DISABLE_STORY_SEEN" = "Disable Story Seen";
+  "SEE_FRIENDS_STORY_WITHOUT_LETTING_THEM_KNOW" = "See friends's story without letting them know";
+  "HIDE_COMPOSER" = "Hide Composer";
+  "HIDE_COMPOSER_ON_NEWS_FEED" = "Hide Composer on News Feed";
+  "HIDE_ROOM_AND_STORIES" = "Hide Room & Stories";
+  "HIDE_ROOM_AND_STORIES_ON_NEWS_FEED" = "Hide Room & Stories on News Feed";
+  "OTHER_PREFERENCES" = "Other Preferences";
+  "RESET_SETTINGS" = "Reset Settings";
+  "SUPPORT_ME" = "Support Me";
+  "DONATION" = "Donation 💰";
+  "BUY_ME_A_COFFEE" = "Buy me a coffee";
+  "FEATURE_REQUEST" = "Feature Request ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Send Me An Email With Your Request";
+  "SOURCE_CODE" = "Source Code 🤖";
+  "FOUND_A_BUG" = "Found A Bug 🐛";
+  "LEAVE_A_BUG_REPORT_ON_GITHUB" = "Leave A Bug Report on Github";
+}

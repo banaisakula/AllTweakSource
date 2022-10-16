@@ -1,0 +1,28 @@
+Package: com.haoict.messengernoads
+Name: Messenger No Ads
+Depends: mobilesubstrate, com.haoict.libhdev (>= 4.8.0), firmware (>= 12)
+Version: 3.10.0
+Architecture: iphoneos-arm
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ Change log: https://github.com/haoict/messenger-no-ads/releases
+ . 
+ Features:
+ - Hide Ads on Messenger app
+ - Disable Read Receipt
+ - Disable Typing Indicator
+ - Disable Story Seen Receipt
+ - Can Save Friend's Story
+ - Hide Search Bar, Stories row, People tab
+ - Hide Suggested Contact in Search
+ - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
+ - Support iOS 12 - iOS 14
+ - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Maintainer: Hao Nguyen
+Author: Hao Nguyen
+Section: Tweaks

@@ -1,0 +1,37 @@
+{
+  "APPLY" = "Áp dụng";
+  "DO_YOU_REALLY_WANT_TO_KILL_TIKTOK" = "Bạn có muốn tắt TikTok?";
+  "CONFIRM" = "Xác nhận";
+  "CANCEL" = "Hủy";
+  "DEFAULT" = "Mặc định";
+  "MAIN_PREFERENCES" = "Tùy chỉnh chính";
+  "NO_ADS" = "Gỡ quảng cáo";
+  "REMOVE_SPONSORED_VIDEO" = "Loại bỏ những video \"Được tài trợ\"";
+  "UNLIMITED_DOWNLOAD" = "Download không giới hạn";
+  "CAN_DOWNLOAD_UNDOWNLOADABLE_VIDEO" = "Có thể download video không cho tải";
+  "DOWNLOAD_WITHOUT_WATERMARK" = "Download không logo (watermark)";
+  "PRESS_AND_HOLD_VIDEO_TO_SHOW_DOWNLOAD_BUTTON" = "Nhấn và giữ video để hiện nút download";
+  "AUTO_PLAY_NEXT_VIDEO" = "Tự động chơi video tiếp theo";
+  "FINGER_FREE" = "Rảnh tay rồi, hehe!";
+  "CHANGE_REGION" = "Thay đổi khu vực";
+  "VIEW_TIKTOK_FROM_ANOTHER_COUNTRY" = "Xem TikTok từ quốc gia khác";
+  "MAY_NOT_WORK_FOR_IPAD_AND_SOME_DEVICES" = "(iPad và một số máy có thể không được)";
+  "SELECT_COUNTRY" = "Chọn quốc gia";
+  "SHOW_PROGRESS_BAR" = "Hiện thanh tiến trình";
+  "FOR_FAST_FORWARD_OR_REWIND_VIDEO" = "Dùng để tua nhanh hoặc tua ngược video";
+  "CAN_HIDE_UI" = "Có thể ẩn UI";
+  "ENABLE_SHOW_HIDE_UI_BUTTON" = "Mở chức nút năng ẩn/hiện UI";
+  "ENABLE_FAV_COLLECTIONS" = "Bật Bộ sưu tập Yêu thích";
+  "MORE_FEATURES_COMMING_SOON" = "Nhiều tính năng mới sẽ cập nhật sau";
+  "OTHER_PREFERENCES" = "Tùy chỉnh phụ";
+  "SHOW_TOP_RIGHT_CORNER_DOWNLOAD_BUTTON" = "Hiện nút download ở góc trên bên phải";
+  "RESET_SETTINGS" = "Đặt lại tùy chỉnh";
+  "SUPPORT_ME" = "Hỗ trợ tôi";
+  "DONATION" = "Ủng hộ 💰";
+  "BUY_ME_A_COFFEE" = "Mua giúp tôi một ly cà phê";
+  "FEATURE_REQUEST" = "Yêu cầu thêm tính năng ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Gửi email yêu cầu";
+  "SOURCE_CODE" = "Mã nguồn 🤖";
+  "FOUND_A_BUG" = "Tìm thấy lỗi 🐛";
+  "LEAVE_A_BUG_REPORT_ON_GITHUB" = "Báo lỗi trên Github";
+}
