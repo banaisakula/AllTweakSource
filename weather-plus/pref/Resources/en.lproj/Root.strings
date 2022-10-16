@@ -1,0 +1,23 @@
+{
+  "APPLY" = "Apply";
+  "DO_YOU_REALLY_WANT_TO_KILL_WEATHER" = "Do you really want to kill Weather?";
+  "CONFIRM" = "Confirm";
+  "CANCEL" = "Cancel";
+  "DEFAULT" = "Default";
+  "MAIN_PREFERENCES" = "Main Preferences";
+  "ENABLE" = "Enable";
+  "ADD_DATE_TO_DAY_ROW" = "Add Date to Day Row";
+  "DATE_FORMAT" = "Date Format";
+  "DATE_ROW_STYLE" = "Date Row Style";
+  "DAY_OF_WEEK_STYLE" = "Day Of Week Style (English Only)";
+  "OTHER_PREFERENCES" = "Other Preferences";
+  "RESET_SETTINGS" = "Reset Settings";
+  "SUPPORT_ME" = "Support Me";
+  "DONATION" = "Donation 💰";
+  "BUY_ME_A_COFFEE" = "Buy me a coffee";
+  "FEATURE_REQUEST" = "Feature Request ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Send Me An Email With Your Request";
+  "SOURCE_CODE" = "Source Code 🤖";
+  "FOUND_A_BUG" = "Found A Bug 🐛";
+  "LEAVE_A_BUG_REPORT_ON_GITHUB" = "Leave A Bug Report on Github";
+}

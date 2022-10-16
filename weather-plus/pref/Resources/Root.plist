@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>cell</key>
+        <string>PSGroupCell</string>
+        <key>headerCellClass</key>
+        <string>HPSHeaderImageCell</string>
+        <key>image</key>
+        <string>/Library/PreferenceBundles/WPPPref.bundle/Banner.jpg</string>
+        <key>height</key>
+        <string>150.0</string>
+      </dict>
+
+      <dict>
+        <key>cell</key>
+        <string>PSGroupCell</string>
+        <key>label</key>
+        <string>MAIN_PREFERENCES</string>
+      </dict>
+
+      <dict>
+        <key>cell</key>
+        <string>PSSwitchCell</string>
+        <key>cellClass</key>
+        <string>HPSSwitchCell</string>
+        <key>default</key>
+        <true/>
+        <key>defaults</key>
+        <string>com.haoict.weatherpluspref</string>
+        <key>key</key>
+        <string>enable</string>
+        <key>label</key>
+        <string>ENABLE</string>
+        <key>subtitle</key>
+        <string>ADD_DATE_TO_DAY_ROW</string>
+        <key>PostNotification</key>
+        <string>com.haoict.weatherpluspref/PrefChanged</string>
+      </dict>
+
+      <dict>
+        <key>cell</key>
+        <string>PSLinkListCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>defaults</key>
+        <string>com.haoict.weatherpluspref</string>
+        <key>key</key>
+        <string>dateFormat</string>
+        <key>label</key>
+        <string>DATE_FORMAT</string>
+        <key>detail</key>
+        <string>HPSListItemsController</string>
+        <key>validTitles</key>
+        <array>
+          <string>MM/dd (12/31)</string>
+          <string>dd/MM (31/12)</string>
+          <string>MM-dd (12-31)</string>
+          <string>dd-MM (31-12)</string>
+          <string>MM.dd (12.31)</string>
+          <string>dd.MM (31.12)</string>
+          <string>MMM dd (Dec 31)</string>
+          <string>dd (31)</string>
+          <string>M/d (3/4 instead of 03/04)</string>
+          <string>d/M (4/3 instead of 04/03)</string>
+          <string>M-d (3-4 instead of 03-04)</string>
+          <string>d-M (4-3 instead of 04-03)</string>
+          <string>M.d (3.4 instead of 03.04)</string>
+          <string>d.M (4.3 instead of 04.03)</string>
+          <string>MMM d (Dec 4 instead of Dec 04)</string>
+          <string>d (4 instead of 04)</string>
+        </array>
+        <key>validValues</key>
+        <array>
+          <dict>
+            <key>format</key>
+            <string>MM/dd</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>dd/MM</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>MM-dd</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>dd-MM</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>MM.dd</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>dd.MM</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>MMM dd</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>dd</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>M/d</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>d/M</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>M-d</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>d-M</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>M.d</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>d.M</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>MMM d</string>
+          </dict>
+          <dict>
+            <key>format</key>
+            <string>d</string>
+          </dict>
+        </array>
+        <key>default</key>
+        <integer>0</integer>
+        <key>PostNotification</key>
+        <string>com.haoict.weatherpluspref/PrefChanged</string>
+      </dict>
+
+      <dict>
+        <key>cell</key>
+        <string>PSLinkListCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>defaults</key>
+        <string>com.haoict.weatherpluspref</string>
+        <key>key</key>
+        <string>dateRowStyle</string>
+        <key>label</key>
+        <string>DATE_ROW_STYLE</string>
+        <key>detail</key>
+        <string>HPSListItemsController</string>
+        <key>validTitles</key>
+        <array>
+          <string>Sunday date</string>
+          <string>Sunday - date</string>
+          <string>Sunday (date)</string>
+          <string>date Sunday</string>
+          <string>date - Sunday</string>
+          <string>(date) Sunday</string>
+        </array>
+        <key>validValues</key>
+        <array>
+          <dict>
+            <key>style</key>
+            <string>0</string>
+          </dict>
+          <dict>
+            <key>style</key>
+            <string>1</string>
+          </dict>
+          <dict>
+            <key>style</key>
+            <string>2</string>
+          </dict>
+          <dict>
+            <key>style</key>
+            <string>3</string>
+          </dict>
+          <dict>
+            <key>style</key>
+            <string>4</string>
+          </dict>
+          <dict>
+            <key>style</key>
+            <string>5</string>
+          </dict>
+        </array>
+        <key>default</key>
+        <integer>0</integer>
+        <key>PostNotification</key>
+        <string>com.haoict.weatherpluspref/PrefChanged</string>
+      </dict>
+
+      <dict>
+        <key>cell</key>
+        <string>PSLinkListCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>defaults</key>
+        <string>com.haoict.weatherpluspref</string>
+        <key>key</key>
+        <string>dayOfWeekStyle</string>
+        <key>label</key>
+        <string>DAY_OF_WEEK_STYLE</string>
+        <key>detail</key>
+        <string>HPSListItemsController</string>
+        <key>validTitles</key>
+        <array>
+          <string>Default (Sunday)</string>
+          <string>Abbreviated (Sun.)</string>
+          <string>Shortest (Su)</string>
+        </array>
+        <key>validValues</key>
+        <array>
+          <dict>
+            <key>style</key>
+            <string>0</string>
+          </dict>
+          <dict>
+            <key>style</key>
+            <string>1</string>
+          </dict>
+          <dict>
+            <key>style</key>
+            <string>2</string>
+          </dict>
+        </array>
+        <key>default</key>
+        <integer>0</integer>
+        <key>PostNotification</key>
+        <string>com.haoict.weatherpluspref/PrefChanged</string>
+      </dict>
+
+      <!-- Other Settings -->
+      <dict>
+        <key>cell</key>
+        <string>PSGroupCell</string>
+        <key>label</key>
+        <string>OTHER_PREFERENCES</string>
+      </dict>
+
+      <dict>
+        <key>cell</key>
+        <string>PSLinkCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>defaults</key>
+        <string>com.haoict.weatherpluspref</string>
+        <key>label</key>
+        <string>RESET_SETTINGS</string>
+        <key>action</key>
+        <string>resetSettings:</string>
+      </dict>
+
+      <!-- Support Me -->
+      <dict>
+        <key>cell</key>
+        <string>PSGroupCell</string>
+        <key>label</key>
+        <string>SUPPORT_ME</string>
+      </dict>
+      <dict>
+        <key>cell</key>
+        <string>PSLinkCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>label</key>
+        <string>Hao Nguyen 👨🏻‍💻</string>
+        <key>subtitle</key>
+        <string>@haoict</string>
+        <key>action</key>
+        <string>openURL:</string>
+        <key>url</key>
+        <string>https://twitter.com/haoict</string>
+      </dict>
+      <dict>
+        <key>cell</key>
+        <string>PSLinkCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>label</key>
+        <string>DONATION</string>
+        <key>subtitle</key>
+        <string>BUY_ME_A_COFFEE</string>
+        <key>action</key>
+        <string>openURL:</string>
+        <key>url</key>
+        <string>https://paypal.me/haoict</string>
+      </dict>
+      <dict>
+        <key>cell</key>
+        <string>PSLinkCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>label</key>
+        <string>FEATURE_REQUEST</string>
+        <key>subtitle</key>
+        <string>SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST</string>
+        <key>action</key>
+        <string>openURL:</string>
+        <key>url</key>
+        <string>mailto:hao.ict56@gmail.com?subject=WeatherPlus%20Feature%20Request</string>
+      </dict>
+      <dict>
+        <key>cell</key>
+        <string>PSLinkCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>label</key>
+        <string>SOURCE_CODE</string>
+        <key>subtitle</key>
+        <string>Github</string>
+        <key>action</key>
+        <string>openURL:</string>
+        <key>url</key>
+        <string>https://github.com/haoict/weather-plus</string>
+      </dict>
+      <dict>
+        <key>cell</key>
+        <string>PSLinkCell</string>
+        <key>cellClass</key>
+        <string>HPSLinkCell</string>
+        <key>label</key>
+        <string>FOUND_A_BUG</string>
+        <key>subtitle</key>
+        <string>LEAVE_A_BUG_REPORT_ON_GITHUB</string>
+        <key>action</key>
+        <string>openURL:</string>
+        <key>url</key>
+        <string>https://github.com/haoict/weather-plus/issues/new</string>
+      </dict>
+
+      <dict>
+        <key>cell</key>
+        <string>PSGroupCell</string>
+        <key>headerCellClass</key>
+        <string>HPSHeaderTextCell</string>
+        <key>label</key>
+        <string>Weather Plus</string>
+        <key>subtitles</key>
+        <array>
+          <string>By @haoict</string>
+          <string>Free and Open Source!</string>
+          <string>Made with love</string>
+        </array>
+      </dict>
+
+      <!-- <dict>
+        <key>cell</key>
+        <string>PSGroupCell</string>
+        <key>footerText</key>
+        <string>Weather Plus, Made With ❤️</string>
+        <key>isStaticText</key>
+        <true/>
+      </dict> -->
+
+    </array>
+    <key>title</key>
+    <string>Weather Plus</string>
+  </dict>
+</plist>
