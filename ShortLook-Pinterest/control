@@ -1,0 +1,9 @@
+Package: com.jeffresc.shortlook.plugin.contact-photo.pinterest
+Name: Pinterest Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Show Pinterest users' profile pictures in ShortLook when you receive a Pinterest notification!
+Maintainer: JeffResc
+Author: Jeff Rescignano
+Section: Tweaks (ShortLook)

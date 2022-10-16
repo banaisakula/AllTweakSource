@@ -1,0 +1,9 @@
+Package: com.jeffresc.shortlook.plugin.contact-photo.apollo
+Name: Apollo Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Show Apollo users' profile pictures in ShortLook when you receive a Apollo notification!
+Maintainer: JeffResc
+Author: Jeff Rescignano
+Section: Tweaks (ShortLook)

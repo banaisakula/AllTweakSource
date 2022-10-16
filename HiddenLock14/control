@@ -1,0 +1,12 @@
+Package: com.yan.hiddenlock14
+Name: HiddenLock14
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: Adds an authentication layer to the hidden album, just as how it should be.
+Maintainer: yan
+Author: yan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2)
+Depiction: https://yandevelop.github.io/depic/HiddenLock14/index.html
+SileoDepiction: https://yandevelop.github.io/depic/HiddenLock14/hl14dp.json
+Icon: https://yandevelop.github.io/assets/icons/hl14/icon.png

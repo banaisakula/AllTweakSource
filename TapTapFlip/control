@@ -1,0 +1,9 @@
+Package: com.cpdigitaldarkroom.taptapflip
+Name: TapTapFlip
+Depends: mobilesubstrate
+Version: 1.4.1
+Architecture: iphoneos-arm
+Description: Double tap to flip camera
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: Tweaks

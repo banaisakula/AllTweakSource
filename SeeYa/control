@@ -1,0 +1,11 @@
+Package: com.miwix.seeya
+Name: SeeYa
+Depends: mobilesubstrate, firmware (>= 13.0)
+Pre-Depends: ws.hbang.common (>= 1.12)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.seeya
+Icon: https://lgariv.github.io/LaVie/depictions/com.miwix.seeya/icon.png
+Maintainer: Lavie Gariv
+Author: Lavie Gariv
+Section: Tweaks

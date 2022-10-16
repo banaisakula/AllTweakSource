@@ -1,0 +1,11 @@
+Package: io.github.iis4if.testalert
+Name: TestAlert
+Depends: mobilesubstrate
+Ve1sion: 1.0
+Architecture: iphoneos-arm
+Description: Using SCLAlertView for Theos 
+Maintainer: @iiS4iF
+Author: @iiS4iF
+Section: Tweaks
+Version: -2+debug
+Installed-Size: 708

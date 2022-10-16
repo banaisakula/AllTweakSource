@@ -1,0 +1,5 @@
+#!/bin/bash
+chown root:wheel /usr/libexec/lighter
+chmod 6755 /usr/libexec/lighter
+
+echo "Thanks for installing HiddenLock14 by yan 👨🏽‍💻"

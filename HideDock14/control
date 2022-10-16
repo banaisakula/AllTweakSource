@@ -1,0 +1,9 @@
+Package: babyyoda777
+Name: HideDock14
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: babyyoda777
+Author: babyyoda777
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

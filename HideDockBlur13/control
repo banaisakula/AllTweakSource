@@ -1,0 +1,10 @@
+Package: com.minazuki.hidedockblur13
+Name: HideDockBlur13
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide the dock blur.
+Depiction: https://minazukidev.github.io/html/HideDockBlur13/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks

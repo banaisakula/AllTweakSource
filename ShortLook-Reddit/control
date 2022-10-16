@@ -1,0 +1,9 @@
+Package: com.jeffresc.shortlook.plugin.contact-photo.reddit
+Name: Reddit Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Show Reddit users' profile pictures in ShortLook when you receive a Reddit notification!
+Maintainer: JeffResc
+Author: Jeff Rescignano
+Section: Tweaks (ShortLook)

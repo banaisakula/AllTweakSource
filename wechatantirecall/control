@@ -1,0 +1,9 @@
+Package: com.yourcompany.wechatantirecall
+Name: wechatantirecall
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 微信防撤回，用于学习制作应用内插件
+Maintainer: lovez
+Author: lovez
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
